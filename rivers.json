@@ -10,7 +10,7 @@
     "minSize": 12.0,
     "maxSize": 128.0,
     "minNodes": 8,
-    "maxNodes": 60,
+    "maxNodes": 120,
     "riverGrowth": 3,
     "downhillError": 1,
     "minLength": 150,
